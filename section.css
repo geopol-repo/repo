@@ -1,0 +1,21 @@
+.Section {
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 80%;
+}
+
+.Section__title {
+    font-size: 1.5em;
+}
+
+.Section__Content {
+    padding-left:40px;
+    padding-right:40px;
+}
+
+.Section__Text {
+    font-size: 1.3em;
+    width: 100%;
+}

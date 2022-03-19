@@ -1,0 +1,11 @@
+.AboutUs__Icon {
+    width: 30px;
+    height: 30px;
+    margin-right:15px
+}
+
+.AboutUs__IconText {
+    padding-top:20px;
+    display: flex;
+    align-items: center;
+}

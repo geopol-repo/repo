@@ -1,0 +1,19 @@
+.ArrowUp {
+    color: #3f3f3f;
+    background-color: rgba(199, 199, 199, 0.3);
+    position: fixed;
+    bottom:40px;
+    right:60px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.ArrowUp:hover {
+    color: black;
+    border-color: #363636;
+}
+
+.ArrowUp__icon {
+    width: 40px;
+    height: 40px;
+}

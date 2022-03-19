@@ -1,0 +1,19 @@
+@font-face {
+    font-family: lato;
+    src: url(./fonts/lato/Lato-Regular.ttf);
+}
+
+body {
+    font-family: lato, serif;
+    overflow: hidden;
+    margin: 0;
+}
+
+.PageContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+    scroll-behavior: smooth;
+    height: calc(100vh - 80px);
+}
