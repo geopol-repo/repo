@@ -1,11 +1,12 @@
 @font-face {
     font-family: lato;
     src: url(./fonts/lato/Lato-Regular.ttf);
+    font-display: swap;
 }
 
 body {
     font-family: lato, serif;
-    overflow: hidden;
+    overflow: hidden !important;
     margin: 0;
 }
 
@@ -15,5 +16,5 @@ body {
     align-items: center;
     overflow: auto;
     scroll-behavior: smooth;
-    height: calc(100vh - 80px);
+    height: calc(100vh - 82px);
 }
